@@ -30,8 +30,8 @@ for(Map.Entry<Integer, Integer> entry:map.entrySet()){
                un.add(nums);
            }
        }
-       al.removeAll(un);
-       System.out.println(al.toString());
+    //    al.removeAll(un);
+    //    System.out.println(al.toString());
 }
         }
 
